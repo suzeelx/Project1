@@ -3,11 +3,11 @@ body {
     background-color: white;
     margin: 0 auto;
     width: 670px;
-    border: 3px solid blue;
+    border: 3px solid black;
     padding: 0 2em 1em;
 }
 h1 {
-    color: blue;
+    color: black;
 }
 div {
     margin-bottom: 1em;
